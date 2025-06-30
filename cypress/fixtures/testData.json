@@ -1,0 +1,26 @@
+{
+    "baseUrl" : "https://devv4.businesscompass.com/",
+    "username" : "ssharma@opexmind.com",
+    "password" : "Sss1234!",
+    "oppName" : "TestOpp6",
+    "oppPriority": "High",
+    "oppOwnerName" : "Sachin Sharma",
+    "oppDescription" : "Opportunity Test Description",
+    "oppType" : "Quality & Error Reduction",
+    "oppTag": "test tag",
+    "roiYears" : "2",
+    "roiInterestRate" : "29",
+    "roiInflationRate" : "19",
+    "roiLaborCostAmount" : "750",
+    "roiErrorAndReworkCost" : "850",
+    "roiSoftwareCost" : "1550",
+    "roiIntegrationCost" : "999",
+    "oppHomeUrl" : "https://devv4.businesscompass.com/Opp/Home",
+
+    "processName" : "p2p-transcript",
+    "processDesc" : "test description",
+    "processObjective" : "test objectives",
+    "processScopeName" : "test scope",
+    "processWorkTime" : "12.45",
+    "processWaitTime" : "15.45"
+}
