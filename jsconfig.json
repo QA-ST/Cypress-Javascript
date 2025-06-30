@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "checkJs": false,
+    "baseUrl": ".",
+    "paths": {
+      "*": ["types/*"]
+    }
+  },
+  "include": ["cypress.config.js", "types"]
+}
